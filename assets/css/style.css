@@ -35,7 +35,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #007bff;
+  color: #474747;
 }
 
 h1 {
@@ -74,7 +74,7 @@ h3 {
   color: #ffffff;
   text-align: center;
   text-decoration: none;
-  background: #007bff;
+  background: #474747;
 }
 
 nav {
@@ -106,7 +106,7 @@ footer {
   color: #cccccc;
   text-align: center;
   background: #666666;
-  border-top: 8px solid #007bff;
+  border-top: 8px solid #474747;
   height: 50px;
 }
 
@@ -164,7 +164,7 @@ h3, h2 {
   line-height: 30px;
   color: #ffffff;
   text-align: center;
-  background: #007bff;
+  background: #474747;
   border-bottom: 0;
 }
 
@@ -212,6 +212,29 @@ input[type=submit] {
   font-size: 18px;
   color: #ffffff;
   cursor: pointer;
-  background: #007bff;
+  background: #474747;
   border: 0 none;
+}
+
+
+/* media query section start */
+
+
+@media screen and (max-width: 600px) {
+
+
+  body {
+    clear: both;
+    height: 50%;   
+  }
+
+  .main-section {
+    background: #000000;
+    color: white;
+  }
+
+  #logo {
+    background: #000000;
+    color: white;
+  }
 }
