@@ -215,3 +215,33 @@ input[type=submit] {
   background: #007bff;
   border: 0 none;
 }
+
+/* query section÷ */
+@media screen and (max-width: 980px) {
+  .main-section {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .main-section {
+    width: 100%;
+    background-color: lightslategray;
+  }
+  footer {
+    position: sticky;
+    clear: both;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .main-section {
+    width: 100%;
+    background-color: lightslategray;
+  }
+    footer {
+      position: sticky;
+      clear: both;
+    }
+  
+}
