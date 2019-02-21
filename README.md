@@ -1,4 +1,4 @@
-<!-- # Bootstrap-PortfolioIn this assignment, you'll create two different portfolios. The first will be building
+# Bootstrap-PortfolioIn this assignment, you'll create two different portfolios. The first will be building
 your portfolio layout using the Bootstrap CSS Framework. The second will be enhancing
 the portfolio you made last unit with a mobile-responsive layout.
 
@@ -96,4 +96,4 @@ Attempt to complete homework assignment as described in instructions. If unable 
 If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
 
 **Good Luck!** -->
-<!--  -->
+<!-- 
