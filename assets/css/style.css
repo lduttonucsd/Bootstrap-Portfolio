@@ -243,5 +243,11 @@ input[type=submit] {
       position: sticky;
       clear: both;
     }
+
+    .logo {
+      width: 200%;
+    }
   
 }
+
+/* i am having trouble with sizing and positioning, this seems to be a consistent problem from day one basics and is really bugging me :/ */
